@@ -1,0 +1,11 @@
+MYSQLL Table details
+
+Database is called phplogin
+
+Table : 1 -- Called "users"
+
+3 Columns:
+
+int id AI PRIMARY KEY
+varchar "username" - 300 length
+varchar "password" - 150 length
